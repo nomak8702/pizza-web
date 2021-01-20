@@ -1,7 +1,7 @@
-insert into Pizza value(1,'Pollo','Sos pizza, mozzarella, piept pui, ciuperci, porumb, măsline.','590 g.',25 );
-insert into Pizza value(2,'Casei','Sos pizza, mozzarella, șuncă, salam, ciuperci, măsline, ardei copt, cremă de brânză.','620 g.',30 );
-insert into Pizza value(3,'Mexicana','Sos pizza, mozzarella, salam, cârnat picant, porumb, ardei iute, cartofi prăjiți, sos aioli.','650 g.',28 );
-insert into Pizza value(4,'Hawai','sos pizza, mozzarella, sunca, ananas.','550 g.',22);
-insert into Pizza value(5,'Carbonara','Sos pizza, mozzarella, speck, ou, parmezan.','650 g.',25 );
-insert into Pizza value(6,'Carnivora','Sos de Pizza, 100% Mozzarella, Cârnați, Șuncă, Vită, Pepperoni.','700 g.',35 );
-insert into Pizza value(7,'Margherita','Sos de Pizza, 100% Mozzarella.','550 g.',25 );
+insert into Pizza values(1,'Sos pizza, mozzarella, piept pui, ciuperci,porumb, măsline.','Pollo',25,'590 g.' );
+insert into Pizza values(2,'Sos pizza, mozzarella, șuncă, salam, ciuperci, măsline, ardei copt, cremă de brânză.','Casei',30,'620 g.');
+insert into Pizza values(3,'Sos pizza, mozzarella, salam, cârnat picant, porumb, ardei iute, cartofi prăjiți, sos aioli.','Mexicana',28,'650 g.' );
+insert into Pizza values(4,'sos pizza, mozzarella, sunca, ananas.','Hawai',22,'550 g.');
+insert into Pizza values(5,'Sos pizza, mozzarella, speck, ou, parmezan.','Carbonara',25,'650 g.' );
+insert into Pizza values(6,'Sos de Pizza, 100% Mozzarella, Cârnați, Șuncă, Vită, Pepperoni.','Carnivora',35,'700 g.');
+insert into Pizza values(7,'Sos de Pizza, 100% Mozzarella.','Margherita',20,'550 g.' );

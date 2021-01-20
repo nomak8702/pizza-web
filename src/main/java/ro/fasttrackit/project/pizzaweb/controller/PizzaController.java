@@ -8,6 +8,7 @@ import ro.fasttrackit.project.pizzaweb.service.PizzaService;
 import java.util.List;
 
 @RestController
+@CrossOrigin
 public class PizzaController {
     @Autowired
     private PizzaService service;
